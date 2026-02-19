@@ -1,12 +1,12 @@
 MIT License
 
 Copyright (c) 2024 Parth Sarthi
-Copyright (c) 2026 Your Name
+Copyright (c) 2026 Yuya Wake
 
 This repository contains a modified and extended version of RAPTOR.
 The original RAPTOR project is Copyright (c) 2024 Parth Sarthi and contributors,
 and is licensed under the MIT License. This fork includes additional
-modifications and new files Copyright (c) 2026 Your Name, also licensed
+modifications and new files Copyright (c) 2026 Yuya Wake, also licensed
 under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
