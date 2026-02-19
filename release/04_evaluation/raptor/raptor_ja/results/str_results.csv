@@ -1,0 +1,2 @@
+accuracy,f1_weighted,real_precision,real_recall,real_f1,fake_precision,fake_recall,fake_f1,cm_act_real_pred_real,cm_act_real_pred_fake,cm_act_fake_pred_real,cm_act_fake_pred_fake,MCC
+0.7702702702702703,0.8002295099069292,0.3333333333333333,0.7,0.45161290322580644,0.9433962264150944,0.78125,0.8547008547008547,7,3,14,50,0.3649330084124082

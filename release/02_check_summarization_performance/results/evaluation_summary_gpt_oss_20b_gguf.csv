@@ -1,0 +1,2 @@
+Model,Num Samples,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore Precision,BERTScore Recall,BERTScore F1,SummaCZS Avg,Total Generation Time (s),Avg Time per Summary (s)
+gpt-oss-20b-Q4_K_M.gguf,889,0.136243,0.019967,0.126776,0.619805,0.714968,0.663269,0.584644,7556.028010,8.499469

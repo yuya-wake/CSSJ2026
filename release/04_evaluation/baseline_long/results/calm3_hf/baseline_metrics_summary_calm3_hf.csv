@@ -1,0 +1,2 @@
+﻿model,accuracy,f1_weighted,real_precision,real_recall,real_f1,fake_precision,fake_recall,fake_f1,cm_act_real_pred_real,cm_act_real_pred_fake,cm_act_fake_pred_real,cm_act_fake_pred_fake
+calm3,0.8513513513513513,0.8631949022192924,0.4666666666666667,0.7,0.56,0.9491525423728814,0.875,0.9105691056910569,7,3,8,56

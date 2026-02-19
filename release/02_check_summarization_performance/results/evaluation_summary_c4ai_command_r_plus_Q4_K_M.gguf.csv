@@ -1,0 +1,2 @@
+Model,Num Samples,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore Precision,BERTScore Recall,BERTScore F1,SummaCZS Avg,Total Generation Time (s),Avg Time per Summary (s)
+c4ai-command-r-plus-Q4_K_M.gguf,889,0.178154,0.030951,0.171630,0.670487,0.719275,0.693355,0.417443,11939.154007,13.429870

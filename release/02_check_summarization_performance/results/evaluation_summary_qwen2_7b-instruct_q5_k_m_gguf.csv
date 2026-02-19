@@ -1,0 +1,2 @@
+Model,Num Samples,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore Precision,BERTScore Recall,BERTScore F1,SummaCZS Avg,Total Generation Time (s),Avg Time per Summary (s)
+qwen2-7b-instruct-q5_k_m.gguf,889,0.153112,0.023364,0.140500,0.623651,0.721051,0.668309,0.640019,3099.149766,3.486108

@@ -1,0 +1,2 @@
+﻿model,accuracy,f1_weighted,real_precision,real_recall,real_f1,fake_precision,fake_recall,fake_f1,cm_act_real_pred_real,cm_act_real_pred_fake,cm_act_fake_pred_real,cm_act_fake_pred_fake
+gpt-oss,0.13513513513513514,0.032175032175032175,0.13513513513513514,1.0,0.23809523809523808,0.0,0.0,0.0,10,0,64,0

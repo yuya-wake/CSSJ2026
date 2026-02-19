@@ -1,0 +1,2 @@
+Model,Num Samples,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore Precision,BERTScore Recall,BERTScore F1,SummaCZS Avg,Total Generation Time (s),Avg Time per Summary (s)
+calm3-22b-chat-Q4_K_M.gguf,889,0.156494,0.023892,0.147801,0.633757,0.722829,0.674724,0.611713,4064.925840,4.572470
